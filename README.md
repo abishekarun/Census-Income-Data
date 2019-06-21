@@ -2,7 +2,7 @@
 
 In this project, we try to work on [Census Income](http://archive.ics.uci.edu/ml/machine-learning-databases/census-income-mld/) Dataset. This project was also used to explore the techniques for handling imbalanced datasets and the stacked learner for combining multiple models for classification.
 
-The R script file is [here](https://github.com/abishekarun/Census-Income-Data/blob/master/income_data_classifciation.R) for this project. Most of the initial preprocessing of data follows [this tutorial](https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/) closely. 
+The R script file is [here](https://github.com/abishekarun/Census-Income-Data/blob/master/income_data_classification.R) for this project. Most of the initial preprocessing of data follows [this tutorial](https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/) closely. 
 
 The resources that helped me are:
 
